@@ -1,0 +1,9 @@
+body{
+    background-image: url('back.png');
+  background-position: top;
+  background-attachment: fixed;
+
+}
+.but2{
+  float:right;
+}
